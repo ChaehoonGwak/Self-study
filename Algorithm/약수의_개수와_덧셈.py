@@ -11,15 +11,15 @@ left부터 right까지의 모든 수들 중에서, 약수의 개수가 짝수인
 
 def solution(left, right):
     answer = 0
-    numbers = [x for x in range(left, right+1)]
     
-    for number in numbers:
+    for number in range(left, right+1):
         divisor = []
-        for i in range(1, number+1):
+        for i in range(1, number+1): # 약수를 모두 구함
             if (number % i) == 0:
                 divisor.append(i)
-        if len(divisor) % 2 == 0:
+        if len(divisor) % 2 == 0: # 약수의 개수가 짝수인 수는 더함
             answer += number
-        else: answer -= number
+        else: # 약수의 개수가 홀수인 수는 뺌
+            answer -= number
         
-    return answer
+    return answe
