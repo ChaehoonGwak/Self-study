@@ -18,7 +18,6 @@ def solution(s):
     words = s.lower()   # 문자열 s를 모두 소문자로 변경
     words = words.split(' ')    # 공백문자를 기준으로 split
     
-    
     for word in words:
         if len(word) == 0:  # 공백문자가 연속해서 나올 수 있으므로 공백문자 처리
             temp_word = ''
