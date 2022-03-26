@@ -21,19 +21,15 @@ skill_trees의 원소는 길이가 2 이상 26 이하인 문자열이며, 스킬
 
 def solution(skill, skill_trees):
     answer = 0
-    
+
     for skill_tree in skill_trees:
         skill_list = [i for i in skill[::-1]] # 스택을 이용하여 스킬트리 체크
-        flag = True # 스킬트리가 알맞은지 체크하는 bool 변수
-        
+
         for s in skill_tree:
             if s in skill_list: # 스킬트리에 포함되는 스킬이라면
-                if s == skill_list[-1]: # 배울 수 있는 순서라면
-                    skill_list.pop()
-                else: # 배울 수 없는 순서라면 False로 처리 후 break
-                    flag = False
+                if s != skill_list.pop(): # 스킬트리의 순서가 맞지 않다면 불가능한 스킬트리
                     break
-        if flag: # 스킬트리가 가능하다면 answer ++
+        else: # 가능한 스킬트리라면 answer ++
             answer += 1
-                   
+
     return answer
