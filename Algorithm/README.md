@@ -7,7 +7,10 @@
 - [위장](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3)
 - [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579?language=python3)
 # 스택/큐
-
+- [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3)
+- [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587?language=python3)
+- [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=python3)
+- [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3)
 # 힙
 
 # 정렬
