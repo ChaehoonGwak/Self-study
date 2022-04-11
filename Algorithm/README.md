@@ -12,7 +12,9 @@
 - [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583?language=python3)
 - [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=python3)
 # 힙
-
+- [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3)
+- [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627?language=python3)
+- [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628?language=python3)
 # 정렬
 [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491?language=python3)
 
