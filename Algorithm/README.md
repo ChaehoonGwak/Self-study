@@ -16,8 +16,10 @@
 - [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627?language=python3)
 - [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628?language=python3)
 # 정렬
-[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491?language=python3)
-
+- [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3)
+- [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746?language=python3)
+- [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747?language=python3)
+- [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491?language=python3)
 # 완전탐색
 
 # 그리디
