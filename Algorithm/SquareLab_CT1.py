@@ -7,6 +7,12 @@ Pairs should be separated by a space. So for the example above, your program wou
 
 If there are no two numbers that sum to the first element in the array, return -1
 
+Examples
+Input: [17, 4, 5, 6, 10, 11, 4, -3, -5, 3, 15, 2, 7]
+Output: 6,11 10,7 15,2
+Input: [7, 6, 4, 1, 7, -2, 3, 12]
+Output: 6,1 4,3
+
 
 
 def ArrayChallenge(arr):
