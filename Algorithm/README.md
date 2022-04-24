@@ -21,7 +21,9 @@
 - [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747?language=python3)
 - [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491?language=python3)
 # 완전탐색
-
+- [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3)
+- [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=python3)
+- [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=python3)
 # 그리디
 
 # DP
