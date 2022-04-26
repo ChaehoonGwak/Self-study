@@ -25,7 +25,11 @@
 - [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=python3)
 - [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=python3)
 # 그리디
-
+- [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=python3)
+- [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860?language=python3)
+- [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3)
+- [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=python3)
+- [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884?language=python3)
 # DP
 
 # DFS/BFS
