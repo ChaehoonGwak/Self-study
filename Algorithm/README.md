@@ -1,6 +1,5 @@
 # 구현
-[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057?language=python3)
-
+- [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057?language=python3)
 # 해시
 - [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3)
 - [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3)
@@ -31,7 +30,9 @@
 - [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=python3)
 - [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884?language=python3)
 # DP
-
+- [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=python3)
+- [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/42895?language=python3)
+- [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898?language=python3)
 # DFS/BFS
 [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971?language=python3)
 
