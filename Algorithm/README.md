@@ -34,8 +34,11 @@
 - [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/42895?language=python3)
 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898?language=python3)
 # DFS/BFS
-[전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971?language=python3)
-
+- [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971?language=python3)
+- [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=python3)
+- [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3)
+- [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163?language=python3)
+- [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43163?language=python3)
 # 이분탐색
 
 # 그래프
