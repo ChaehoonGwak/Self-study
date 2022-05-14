@@ -42,3 +42,5 @@
 # 이분탐색
 
 # 그래프
+- [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189?language=python3)
+- [순위](https://programmers.co.kr/learn/courses/30/lessons/49191?language=python3)
