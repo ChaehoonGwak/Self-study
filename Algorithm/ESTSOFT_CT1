@@ -1,0 +1,18 @@
+def solution(histogram):
+    answer = 1
+    histogram2 = list(map(list, zip(*histogram)))
+
+    for line in histogram2:
+        cnt = 1
+
+        for l in line[::-1]:
+            if l == 2:
+                cnt += 1
+            elif l == 1:
+                cnt = 1
+            elif l == 0:
+                break
+
+        answer *= cnt
+    
+    return answer
