@@ -1,0 +1,28 @@
+from collections import deque
+
+def solution(queue):
+    answer = {1:0, 2:0, 3:0}
+    q = deque(queue)
+    n = len(q)//3
+    
+    counter = {1:0, 2:0, 3:0}
+    for value in q:
+        counter[value] += 1
+
+    while counter[1] != n or counter[2] != n or counter[3] != n:
+        top = q[0]
+        
+        if counter[top] <= n:
+            push = top
+        elif counter[top] > n:
+            push = min(counter, key=counter.get)
+        
+        q.popleft()
+        q.append(push)
+        counter[top] -= 1
+        counter[push] += 1
+        answer[push] += 1
+
+    answer = list(answer.values())
+
+    return answer
